@@ -28,9 +28,9 @@
     <header class="header" id="myHeader">
       <div class="topHeader">
         <span class="logo"
-          ><img class="logoImg" src="../../media/RMIT-Logo.png" alt="Logo pic"
+          ><img class="logoImg" src="../../media/logo.png" alt="Logo pic"
         /></span>
-        <p class="companyName">Lunarado Cinema</p>
+        <p class="companyName">Leonardo Cinema</p>
       </div>
     </header>
 
@@ -136,6 +136,56 @@
             </tr>
           </table>
         </div>
+        <br>
+
+        <hr />
+        <br />
+        <p style="text-align: center">Movies and Weekly Session Times</p>
+        <div style="overflow-x: auto;">
+          <table style="width: 80%">
+            <tr>
+              <th>Movie Title</th>
+              <th>Code</th>
+              <th>Mon - Tue</th>
+              <th>Wed - Fri</th>
+              <th>Sat - Sun</th>
+              <th>IMDB Link</th>
+            </tr>
+            <tr>
+              <td>Top Gun: Maverick</td>
+              <td>ACT</td>
+              <td>9pm</td>
+              <td>9pm</td>
+              <td>6pm</td>
+              <td><a href="https://www.imdb.com/title/tt1745960/">https://www.imdb.com/title/tt1745960/</a></td>
+            </tr>
+            <tr>
+              <td>Mrs Haris goes to paris</td>
+              <td>RMC</td>
+              <td>-</td>
+              <td>12pm</td>
+              <td>3pm</td>
+              <td><a href="https://www.imdb.com/title/tt5151570/">https://www.imdb.com/title/tt5151570/</a></td>
+            </tr>
+            <tr>
+              <td>Lightyear</td>
+              <td>FAM</td>
+              <td>12pm</td>
+              <td>6pm</td>
+              <td>12pm</td>
+              <td><a href="https://www.imdb.com/title/tt10298810/">https://www.imdb.com/title/tt10298810/</a></td>
+            </tr>
+            <tr>
+              <td>Prithviraj</td>
+              <td>AHF</td>
+              <td>6pm</td>
+              <td>-</td>
+              <td>9pm</td>
+              <td><a href="https://www.imdb.com/title/tt9637132/">https://www.imdb.com/title/tt9637132/</a></td>
+            </tr>
+
+          </table>
+        </div>
       </section>
       <section id="shows" class="shows">
         <div id="show" class="show">
@@ -166,7 +216,7 @@
                     src="../../media/shawshank_redemption.jfif"
                   />
                   <button
-                    onclick="window.location.href='./booking.php?movie=SHAWSHANK'"
+                    onclick="window.location.href='./booking.php?movie=ACT'"
                   >
                     Book Now
                   </button>
@@ -212,7 +262,7 @@
                   <div class="img-bg"></div>
                   <img class="img2" src="../../media/godfather.jfif" />
                   <button
-                    onclick="window.location.href='./booking.php?movie=GODFATHER'"
+                    onclick="window.location.href='./booking.php?movie=ACT'"
                   >
                     Book Now
                   </button>
@@ -257,7 +307,7 @@
                   <div class="img-bg"></div>
                   <img class="img2" src="../../media/dark_knight.jfif" />
                   <button
-                    onclick="window.location.href='./booking.php?movie=DARK'"
+                    onclick="window.location.href='./booking.php?movie=ACT'"
                   >
                     Book Now
                   </button>
@@ -305,7 +355,7 @@
                   <div class="img-bg"></div>
                   <img class="img2" src="../../media/lord_of_the_rings.jfif" />
                   <button
-                    onclick="window.location.href='./booking.php?movie=lord'"
+                    onclick="window.location.href='./booking.php?movie=ACT'"
                   >
                     Book Now
                   </button>
