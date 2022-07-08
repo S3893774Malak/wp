@@ -23,12 +23,12 @@
   </head>
 
   <body>
-    <header class="header" id="myHeader">
+  <header class="header" id="myHeader">
       <div class="topHeader">
         <span class="logo"
-          ><img class="logoImg" src="../../media/RMIT-Logo.png" alt="Logo pic"
+          ><img class="logoImg" src="../../media/logo.png" alt="Logo pic"
         /></span>
-        <p class="companyName">Lunarado Cinema</p>
+        <p class="companyName">Leonardo Cinema</p>
       </div>
     </header>
 
