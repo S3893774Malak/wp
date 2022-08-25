@@ -122,14 +122,6 @@ $booking_info = $_SESSION['booking_info'];
 <body>
   <div class="main-page">
 
-
-
-
-
-
-
-
-
     <div class="sub-page">
       <div class="container">
         <div class="col-70">
