@@ -38,6 +38,7 @@ $("a[href^='#']").bind("click", function (e) {
 //   $("a[href^='#']").removeClass("actives");
 //   $(this).addClass("actives");
 // });
+//
 
 window.onscroll = function () {
   stickyNav();
