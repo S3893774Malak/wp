@@ -27,7 +27,7 @@ if ($pass == 0) {
 <head>
   <meta charset="utf-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1" />
-  <title>Lunardo Booking Page</title>
+  <title>Lunardo Booking Page.</title>
 
   <!-- Keep wireframe.css for debugging, add your css to style.css -->
 
