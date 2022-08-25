@@ -9,7 +9,7 @@ include_once './tools.php';
   <meta name="viewport" content="width=device-width, initial-scale=1" />
   <title>Assignment 2</title>
 
-  <!-- Keep wireframe.css for debugging, add your css to style.css -->
+  <!-- Keep wireframe.css for debugging , add your css to style.css -->
   <link id="wireframecss" type="text/css" rel="stylesheet" href="../wireframe.css" disabled />
   <link id='stylecss' type="text/css" rel="stylesheet" href="style.css?t=
     <?= filemtime("style.css"); ?>
